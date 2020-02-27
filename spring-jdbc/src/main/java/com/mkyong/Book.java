@@ -7,7 +7,7 @@ public class Book {
     private Long id;
     private String name;
     private BigDecimal price;
-
+//constructor
     public Book() {
     }
 
